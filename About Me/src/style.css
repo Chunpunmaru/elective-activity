@@ -1,0 +1,152 @@
+*{
+    font-family: 'Verdana';
+    color:white;
+}
+h1{
+    color: white;
+}
+
+body{
+    background-color: #1E1E1E;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+
+.Nav-Bar{
+    display: flex;
+    margin-top: 15px;
+    justify-content: flex-end;
+    width: 100%;
+    flex-direction: row;
+    gap: 2rem;
+    height: 10%;
+}
+
+.home-port{
+    display: flex;
+    justify-content: center;
+    padding-top: 15%;
+    align-items: center;
+    flex-direction: column;
+
+}
+.home-port p{
+    align-self:center;
+    justify-content: flex-end;
+    padding-left: 10%;
+    margin-top: 0;
+    margin-bottom: 10%;
+}
+
+.home-port h1{
+    font-size: 50px;
+    margin-bottom: 0;
+}
+.social-links{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 5%;
+    
+    
+}
+.icons{
+    width: 87px;
+    height: 87px;
+    left: 42px;
+    top: 764px;
+}
+
+.about-flex{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    align-items: center;
+}
+.about-pic{
+    height: 100%;
+
+}
+.about-stats{
+    padding-left: 40px;
+    width: 1049px;
+    height: 842px;
+}
+.about-stats h1{
+    text-align: center;
+}
+.about-pic img{
+    width: 620px;
+    height: 700px;
+    border-radius: 40px;
+}
+.about-pic h1{
+    text-align: center;
+}
+
+.h1-title{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+}
+
+.box-1{
+    background: #2B2B2B;
+    left: 0px;
+    top: 253px;
+    display: flex;
+}
+.box-2{
+    background: #423F3E;
+
+    left: 0px;
+    top: 253px;
+    display: flex;
+}
+
+.box-3{
+    background: #171010;
+
+    left: 0px;
+    top: 253px;
+    display: flex;
+}
+
+.box-4{
+    background: #362222;
+
+    left: 0px;
+    top: 253px;
+    display: flex;
+}
+
+.box-5{
+    background: #423F3E;
+
+    left: 0px;
+    top: 253px;
+    display: flex;
+}
+
+.top-pic{
+    width: 694px;
+    height: 353px;
+    left: 34px;
+    top: 302px;
+    border-radius: 193px;
+}
+.sub-box1{
+    width: 40%;
+}
+.sub-box2{
+    width: 60%;
+    text-align: center;
+}
